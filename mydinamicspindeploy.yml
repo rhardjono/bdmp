@@ -2,7 +2,7 @@
   kind: Deployment
   metadata:
     name: nginx-deployment
-    labesls:
+    labels:
       app: nginx
   spec:
     replicas: 3
