@@ -1,2 +1,2 @@
-# bdmp
+# BDMP
 Big Data Mobility Platform
